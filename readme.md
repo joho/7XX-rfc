@@ -14,3 +14,9 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 721 - Known Unknowns
     - 722 - Unknown Unknowns
     - 723 - Tricky
+  * 73X - Fucking
+    - 731 - Fucking Rubygems
+    - 732 - Fucking Unicode
+    - 733 - Fucking Deadlocks
+    - 734 - Fucking Deferreds
+    - 735 - Fucking IE
