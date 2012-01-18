@@ -20,6 +20,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 733 - Fucking Deadlocks
     - 734 - Fucking Deferreds
     - 735 - Fucking IE
+    - 736 - Fucking Race Conditions
   * 76X - Substance-Affected Developer
     - 761 - Hungover
     - 762 - Stoned
