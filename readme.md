@@ -7,7 +7,6 @@ There are many ways for a developer to screw up their implementation, but no cod
 We humbly suggest the following status codes are included in the HTTP spec in the 7XX range.
 
   * 701 - Meh
-  * 702 - Hungover
   * 711 - Closed
   * 72X - Edge Cases
     - 720 - Unpossible
@@ -20,6 +19,10 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 733 - Fucking Deadlocks
     - 734 - Fucking Deferreds
     - 735 - Fucking IE
+  * 76X - Substance-Affected Developer
+    - 761 - Hungover
+    - 762 - Stoned
+    - 763 - Over-Caffienated
   * 77X - Predictable Problems
     - 771 - Cached for too long
     - 772 - Not cached long enough
@@ -27,4 +30,6 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 777 - Coincidence
     - 778 - Off By One Error
     - 779 - Off By Two Error
-
+  * 78X - Somebody Else's Problem
+    - 781 — Operations
+    
