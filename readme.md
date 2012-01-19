@@ -38,3 +38,4 @@ We humbly suggest the following status codes are included in the HTTP spec in th
   * 78X - Somebody Else's Problem
     - 781 — Operations
     - 782 - QA
+    - 783 - It was a customer request, honestly
