@@ -26,6 +26,8 @@ We humbly suggest the following status codes are included in the HTTP spec in th
   * 74X - Meme Driven
     - 741 - Compiling
     - 742 - A kitten dies
+    - 743 - I thought I knew regular expressions
+    - 746 - Missed Ballmer Peak
   * 76X - Substance-Affected Developer
     - 761 - Hungover
     - 762 - Stoned
