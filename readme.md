@@ -22,7 +22,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 734 - Fucking Deferreds
     - 735 - Fucking IE
     - 736 - Fucking Race Conditions
-    - 737 - Fucking Threading
+    - 737 - FuckThreadsing
   * 74X - Meme Driven
     - 741 - Compiling
     - 742 - A kitten dies
