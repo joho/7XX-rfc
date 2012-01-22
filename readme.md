@@ -22,10 +22,12 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 734 - Fucking Deferreds
     - 735 - Fucking IE
     - 736 - Fucking Race Conditions
-    - 737 - FuckThreadsing
+    - 737 - Fucking Threading
   * 74X - Meme Driven
     - 741 - Compiling
     - 742 - A kitten dies
+    - 743 - I don't always test my code, but when I do I do it in production
+    - 747 - Motherfucking Snakes on the Motherfucking Plane
   * 76X - Substance-Affected Developer
     - 761 - Hungover
     - 762 - Stoned
@@ -41,6 +43,6 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 778 - Off By One Error
     - 779 - Off By Too Many To Count Error
   * 78X - Somebody Else's Problem
-    - 781 — Operations
+    - 781 - Operations
     - 782 - QA
     - 783 - It was a customer request, honestly
