@@ -26,6 +26,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
   * 74X - Meme Driven
     - 741 - Compiling
     - 742 - A kitten dies
+    - 743 - Unicorns abound
   * 76X - Substance-Affected Developer
     - 761 - Hungover
     - 762 - Stoned
@@ -41,6 +42,6 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 778 - Off By One Error
     - 779 - Off By Too Many To Count Error
   * 78X - Somebody Else's Problem
-    - 781 — Operations
+    - 781 - Operations
     - 782 - QA
     - 783 - It was a customer request, honestly
