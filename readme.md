@@ -8,7 +8,6 @@ We humbly suggest the following status codes are included in the HTTP spec in th
 
   * 701 - Meh
   * 711 - Closed
-  * 712 - It's a feature, not a bug
   * 72X - Edge Cases
     - 720 - Unpossible
     - 721 - Known Unknowns
@@ -16,6 +15,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 723 - Tricky
     - 724 - This line should be unreachable
     - 725 - It works on my machine
+    - 730 - It's a feature, not a bug
   * 73X - Fucking
     - 731 - Fucking Rubygems
     - 732 - Fucking Unicode
