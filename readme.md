@@ -16,7 +16,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 724 - This line should be unreachable
     - 725 - It works on my machine
   * 73X - Fucking
-    - 731 - Fucking Rubygems
+    - 731 - Fucking $LanguageOfChoice
     - 732 - Fucking Unicode
     - 733 - Fucking Deadlocks
     - 734 - Fucking Deferreds
@@ -31,7 +31,8 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 762 - Stoned
     - 763 - Over-Caffienated
     - 764 - Under-Caffienated
-    - 765 - Railscamp
+    - 765 - Hey man, I was at a conference
+    - 766 - I read a blog which said this was the future
   * 77X - Predictable Problems
     - 771 - Cached for too long
     - 772 - Not cached long enough
@@ -40,6 +41,6 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 778 - Off By One Error
     - 779 - Off By Too Many To Count Error
   * 78X - Somebody Else's Problem
-    - 781 — Operations
+    - 781 - Operations
     - 782 - QA
     - 783 - It was a customer request, honestly
