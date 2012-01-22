@@ -23,6 +23,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 735 - Fucking IE
     - 736 - Fucking Race Conditions
     - 737 - FuckThreadsing
+    - 737 - (Actual) fucking
   * 74X - Meme Driven
     - 741 - Compiling
     - 742 - A kitten dies
@@ -32,6 +33,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 763 - Over-Caffienated
     - 764 - Under-Caffienated
     - 765 - Railscamp
+    - 766 - Drunk
   * 77X - Predictable Problems
     - 771 - Cached for too long
     - 772 - Not cached long enough
