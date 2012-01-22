@@ -32,6 +32,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 763 - Over-Caffienated
     - 764 - Under-Caffienated
     - 765 - Railscamp
+    - 766 - Sober
   * 77X - Predictable Problems
     - 771 - Cached for too long
     - 772 - Not cached long enough
