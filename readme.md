@@ -46,8 +46,8 @@ We humbly suggest the following status codes are included in the HTTP spec in th
   * 76X - Substance-Affected Developer
     - 761 - Hungover
     - 762 - Stoned
-    - 763 - Over-Caffeinated
-    - 764 - Under-Caffeinated
+    - 763 - Under-Caffeinated
+    - 764 - Over-Caffeinated
     - 765 - Railscamp
     - 766 - Sober
     - 767 - Drunk
