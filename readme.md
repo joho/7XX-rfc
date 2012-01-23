@@ -24,10 +24,12 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 736 - Fucking Race Conditions
     - 737 - FuckThreadsing
     - 738 - Fucking Bundler
+    - 739 - Fucking Windows
   * 74X - Meme Driven
     - 741 - Compiling
     - 742 - A kitten dies
     - 743 - I thought I knew regular expressions
+    - 744 - Y U NO write integration tests?
     - 746 - Missed Ballmer Peak
   * 76X - Substance-Affected Developer
     - 761 - Hungover
@@ -40,6 +42,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 771 - Cached for too long
     - 772 - Not cached long enough
     - 773 - Not cached at all
+    - 774 - Error on the Exception
     - 777 - Coincidence
     - 778 - Off By One Error
     - 779 - Off By Too Many To Count Error
@@ -47,3 +50,4 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 781 - Operations
     - 782 - QA
     - 783 - It was a customer request, honestly
+    - 784 - Management, obviously
