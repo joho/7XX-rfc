@@ -31,6 +31,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 742 - A kitten dies
     - 743 - I thought I knew regular expressions
     - 744 - Y U NO write integration tests?
+    - 745 - I don't always test my code, but when I do I do it in production
     - 746 - Missed Ballmer Peak
     - 747 - Motherfucking Snakes on the Motherfucking Plane
   * 76X - Substance-Affected Developer
