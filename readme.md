@@ -42,6 +42,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 771 - Cached for too long
     - 772 - Not cached long enough
     - 773 - Not cached at all
+    - 774 - Error on the Exception
     - 777 - Coincidence
     - 778 - Off By One Error
     - 779 - Off By Too Many To Count Error
