@@ -6,8 +6,9 @@ There are many ways for a developer to screw up their implementation, but no cod
 
 We humbly suggest the following status codes are included in the HTTP spec in the 7XX range.
 
-  * 701 - Meh
-  * 702 - Emacs
+  * 70X - Inexcusable
+    - 701 - Meh
+    - 702 - Emacs
   * 71X - Novelty Implementations
     - 710 - PHP 
     - 711 - Convenience Store
