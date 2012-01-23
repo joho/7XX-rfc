@@ -8,6 +8,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
 
   * 701 - Meh
   * 711 - Closed
+  * 719 - I am not a teapot
   * 72X - Edge Cases
     - 720 - Unpossible
     - 721 - Known Unknowns
