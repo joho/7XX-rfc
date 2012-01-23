@@ -29,6 +29,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 741 - Compiling
     - 742 - A kitten dies
     - 743 - I thought I knew regular expressions
+    - 744 - Y U NO write integration tests?
     - 746 - Missed Ballmer Peak
   * 76X - Substance-Affected Developer
     - 761 - Hungover
