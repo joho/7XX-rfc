@@ -35,6 +35,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 745 - I don't always test my code, but when I do I do it in production
     - 746 - Missed Ballmer Peak
     - 747 - Motherfucking Snakes on the Motherfucking Plane
+    - 781 - Confounded by Ponies
   * 76X - Substance-Affected Developer
     - 761 - Hungover
     - 762 - Stoned
