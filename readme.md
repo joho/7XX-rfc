@@ -17,7 +17,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 723 - Tricky
     - 724 - This line should be unreachable
     - 725 - It works on my machine
-    - 730 - It's a feature, not a bug
+    - 726 - It's a feature, not a bug
   * 73X - Fucking
     - 731 - Fucking Rubygems
     - 732 - Fucking Unicode
@@ -36,7 +36,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 745 - I don't always test my code, but when I do I do it in production
     - 746 - Missed Ballmer Peak
     - 747 - Motherfucking Snakes on the Motherfucking Plane
-    - 781 - Confounded by Ponies
+    - 748 - Confounded by Ponies
   * 76X - Substance-Affected Developer
     - 761 - Hungover
     - 762 - Stoned
