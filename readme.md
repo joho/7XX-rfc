@@ -30,6 +30,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 737 - FuckThreadsing
     - 738 - Fucking Bundler
     - 739 - Fucking Windows
+    - 739.999~- Fucking Floats
   * 74X - Meme Driven
     - 741 - Compiling
     - 742 - A kitten dies
@@ -58,7 +59,8 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 778 - Off By One Error
     - 779 - Off By Too Many To Count Error
   * 78X - Somebody Else's Problem
-    - 781 - Operations
+    - 781 - Operations
     - 782 - QA
     - 783 - It was a customer request, honestly
     - 784 - Management, obviously
+    - 785 - TPS Cover Sheet not attached
