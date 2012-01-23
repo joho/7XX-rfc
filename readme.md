@@ -21,6 +21,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 725 - It works on my machine
     - 726 - It's a feature, not a bug
   * 73X - Fucking
+    - 730 - Fucking RVM
     - 731 - Fucking Rubygems
     - 732 - Fucking Unicode
     - 733 - Fucking Deadlocks
