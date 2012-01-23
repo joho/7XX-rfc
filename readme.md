@@ -40,6 +40,8 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 747 - Motherfucking Snakes on the Motherfucking Plane
     - 748 - Confounded by Ponies
     - 749 - Reserved for Chuck Norris 
+  * 75X - Syntax Errors
+    - 750 - Didn't bother to compile it
   * 76X - Substance-Affected Developer
     - 761 - Hungover
     - 762 - Stoned
