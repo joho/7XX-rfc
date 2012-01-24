@@ -61,6 +61,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 777 - Coincidence
     - 778 - Off By One Error
     - 779 - Off By Too Many To Count Error
+    - 779.1 - Not enough status codes
   * 78X - Somebody Else's Problem
     - 781 - Operations
     - 782 - QA
