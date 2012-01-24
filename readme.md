@@ -24,7 +24,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
   * 73X - Fucking
     - 731 - Fucking Rubygems
     - 732 - Fucking Unicode
-    - 733 - Fucking Deadlocks
+    - 733 - Fucking Dreadlocks
     - 734 - Fucking Deferreds
     - 735 - Fucking IE
     - 736 - Fucking Race Conditions
