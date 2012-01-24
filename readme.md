@@ -21,6 +21,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 724 - This line should be unreachable
     - 725 - It works on my machine
     - 726 - It's a feature, not a bug
+      727 - We couldn't fit it all in
   * 73X - Fucking
     - 731 - Fucking Rubygems
     - 732 - Fucking Unicode
