@@ -6,9 +6,10 @@ There are many ways for a developer to screw up their implementation, but no cod
 
 We humbly suggest the following status codes are included in the HTTP spec in the 7XX range.
 
-  * 701 - Meh
-  * 702 - Emacs
-  * 703 - Don't Ask
+  * 70X - Inexcusable
+    - 701 - Meh
+    - 702 - Emacs
+    - 703 - Don't Ask
   * 71X - Novelty Implementations
     - 710 - PHP 
     - 711 - Convenience Store
@@ -43,12 +44,12 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 749 - Reserved for Chuck Norris 
   * 75X - Syntax Errors
     - 750 - Didn't bother to compile it
-    - 703 - Syntax Error
+    - 753 - Syntax Error
   * 76X - Substance-Affected Developer
     - 761 - Hungover
     - 762 - Stoned
-    - 763 - Over-Caffeinated
-    - 764 - Under-Caffeinated
+    - 763 - Under-Caffeinated
+    - 764 - Over-Caffeinated
     - 765 - Railscamp
     - 766 - Sober
     - 767 - Drunk
@@ -67,3 +68,6 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 783 - It was a customer request, honestly
     - 784 - Management, obviously
     - 785 - TPS Cover Sheet not attached
+  * 79X - Internet crashed
+    - 797 - This is the last page of the Internet. Go back
+    - 799 - End of the world
