@@ -10,7 +10,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 701 - Meh
     - 702 - Emacs
   * 71X - Novelty Implementations
-    - 710 - PHP 
+    - 710 - PHP
     - 711 - Convenience Store
     - 719 - I am not a teapot
   * 72X - Edge Cases
@@ -40,7 +40,8 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 746 - Missed Ballmer Peak
     - 747 - Motherfucking Snakes on the Motherfucking Plane
     - 748 - Confounded by Ponies
-    - 749 - Reserved for Chuck Norris 
+    - 749 - Reserved for Chuck Norris
+    - 750 - I keel YOU!
   * 75X - Syntax Errors
     - 750 - Didn't bother to compile it
     - 753 - Syntax Error
