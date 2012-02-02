@@ -9,6 +9,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
   * 70X - Inexcusable
     - 701 - Meh
     - 702 - Emacs
+    - 709 - User agent header won't fit in a tweet
   * 71X - Novelty Implementations
     - 710 - PHP
     - 711 - Convenience Store
