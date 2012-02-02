@@ -62,6 +62,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 778 - Off By One Error
     - 779 - Off By Too Many To Count Error
   * 78X - Somebody Else's Problem
+    - 780 - Project owner not responding
     - 781 - Operations
     - 782 - QA
     - 783 - It was a customer request, honestly
