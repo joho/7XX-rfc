@@ -21,14 +21,16 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 724 - This line should be unreachable
     - 725 - It works on my machine
     - 726 - It's a feature, not a bug
+    - 727 - Works on my timezone 
   * 73X - Fucking
+    - 730 - FuckThreadsing
     - 731 - Fucking Rubygems
     - 732 - Fucking Unicode
     - 733 - Fucking Deadlocks
     - 734 - Fucking Deferreds
     - 735 - Fucking IE
     - 736 - Fucking Race Conditions
-    - 737 - FuckThreadsing
+    - 737 - Fucking Airplane is going to land
     - 738 - Fucking Bundler
     - 739 - Fucking Windows
   * 74X - Meme Driven
