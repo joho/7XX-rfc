@@ -12,6 +12,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
   * 71X - Novelty Implementations
     - 710 - PHP 
     - 711 - Convenience Store
+    - 712 - ಠ_ಠ
     - 719 - I am not a teapot
   * 72X - Edge Cases
     - 720 - Unpossible
