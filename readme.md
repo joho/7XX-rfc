@@ -25,7 +25,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 727 - 32 bits is plenty
   * 73X - Fucking
     - 731 - Fucking Rubygems
-    - 732 - Fucking Unicode
+    - 732 - Fucking Unic💩de
     - 733 - Fucking Deadlocks
     - 734 - Fucking Deferreds
     - 735 - Fucking IE
