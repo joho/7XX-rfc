@@ -47,6 +47,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
   * 75X - Syntax Errors
     - 750 - Didn't bother to compile it
     - 753 - Syntax Error
+    - 755 - Forgot to git-add some files before pushing to production
     - 759 - Unexpected T_PAAMAYIM_NEKUDOTAYIM
   * 76X - Substance-Affected Developer
     - 761 - Hungover
