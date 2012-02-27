@@ -73,6 +73,8 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 783 - It was a customer request, honestly
     - 784 - Management, obviously
     - 785 - TPS Cover Sheet not attached
+    - 786 - Elevated Error Rates
+
   * 79X - Internet crashed
     - 797 - This is the last page of the Internet. Go back
     - 799 - End of the world
