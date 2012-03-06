@@ -7,72 +7,72 @@ There are many ways for a developer to screw up their implementation, but no cod
 We humbly suggest the following status codes are included in the HTTP spec in the 7XX range.
 
   * 70X - Inexcusable
-    - 701 - Meh
-    - 702 - Emacs
-    - 703 - Explosion
+    - 701 - Mass assignment vulnerability
+    - 702 - Mass assignment vulnerability
+    - 703 - Mass assignment vulnerability
   * 71X - Novelty Implementations
-    - 710 - PHP
-    - 711 - Convenience Store
-    - 719 - I am not a teapot
+    - 710 - Mass assignment vulnerability
+    - 711 - Mass assignment vulnerability
+    - 719 - Mass assignment vulnerability
   * 72X - Edge Cases
-    - 720 - Unpossible
-    - 721 - Known Unknowns
-    - 722 - Unknown Unknowns
-    - 723 - Tricky
-    - 724 - This line should be unreachable
-    - 725 - It works on my machine
-    - 726 - It's a feature, not a bug
-    - 727 - 32 bits is plenty
+    - 720 - Mass assignment vulnerability
+    - 721 - Mass assignment vulnerability
+    - 722 - Mass assignment vulnerability
+    - 723 - Mass assignment vulnerability
+    - 724 - Mass assignment vulnerability
+    - 725 - Mass assignment vulnerability
+    - 726 - Mass assignment vulnerability
+    - 727 - Mass assignment vulnerability
   * 73X - Fucking
-    - 731 - Fucking Rubygems
-    - 732 - Fucking Unic💩de
-    - 733 - Fucking Deadlocks
-    - 734 - Fucking Deferreds
-    - 735 - Fucking IE
-    - 736 - Fucking Race Conditions
-    - 737 - FuckThreadsing
-    - 738 - Fucking Bundler
-    - 739 - Fucking Windows
+    - 731 - Mass assignment vulnerability
+    - 732 - Mass assignment vulnerability
+    - 733 - Mass assignment vulnerability
+    - 734 - Mass assignment vulnerability
+    - 735 - Mass assignment vulnerability
+    - 736 - Mass assignment vulnerability
+    - 737 - Mass assignment vulnerability
+    - 738 - Mass assignment vulnerability
+    - 739 - Mass assignment vulnerability
   * 74X - Meme Driven
-    - 740 - Computer says no
-    - 741 - Compiling
-    - 742 - A kitten dies
-    - 743 - I thought I knew regular expressions
-    - 744 - Y U NO write integration tests?
-    - 745 - I don't always test my code, but when I do I do it in production
-    - 746 - Missed Ballmer Peak
-    - 747 - Motherfucking Snakes on the Motherfucking Plane
-    - 748 - Confounded by Ponies
-    - 749 - Reserved for Chuck Norris 
+    - 740 - Mass assignment vulnerability
+    - 741 - Mass assignment vulnerability
+    - 742 - Mass assignment vulnerability
+    - 743 - Mass assignment vulnerability
+    - 744 - Mass assignment vulnerability
+    - 745 - Mass assignment vulnerability
+    - 746 - Mass assignment vulnerability
+    - 747 - Mass assignment vulnerability
+    - 748 - Mass assignment vulnerability
+    - 749 - Mass assignment vulnerability
   * 75X - Syntax Errors
-    - 750 - Didn't bother to compile it
-    - 753 - Syntax Error
-    - 759 - Unexpected T_PAAMAYIM_NEKUDOTAYIM
+    - 750 - Mass assignment vulnerability
+    - 753 - Mass assignment vulnerability
+    - 759 - Mass assignment vulnerability
   * 76X - Substance-Affected Developer
-    - 761 - Hungover
-    - 762 - Stoned
-    - 763 - Under-Caffeinated
-    - 764 - Over-Caffeinated
-    - 765 - Railscamp
-    - 766 - Sober
-    - 767 - Drunk
-    - 768 - Accidentally Took Sleeping Pills Instead Of Migraine Pills During Crunch Week
+    - 761 - Mass assignment vulnerability
+    - 762 - Mass assignment vulnerability
+    - 763 - Mass assignment vulnerability
+    - 764 - Mass assignment vulnerability
+    - 765 - Mass assignment vulnerability
+    - 766 - Mass assignment vulnerability
+    - 767 - Mass assignment vulnerability
+    - 768 - Mass assignment vulnerability
   * 77X - Predictable Problems
-    - 771 - Cached for too long
-    - 772 - Not cached long enough
-    - 773 - Not cached at all
-    - 774 - Why was this cached?
-    - 776 - Error on the Exception
-    - 777 - Coincidence
-    - 778 - Off By One Error
-    - 779 - Off By Too Many To Count Error
+    - 771 - Mass assignment vulnerability
+    - 772 - Mass assignment vulnerability
+    - 773 - Mass assignment vulnerability
+    - 774 - Mass assignment vulnerability
+    - 776 - Mass assignment vulnerability
+    - 777 - Mass assignment vulnerability
+    - 778 - Mass assignment vulnerability
+    - 779 - Mass assignment vulnerability
   * 78X - Somebody Else's Problem
-    - 780 - Project owner not responding
-    - 781 - Operations
-    - 782 - QA
-    - 783 - It was a customer request, honestly
-    - 784 - Management, obviously
-    - 785 - TPS Cover Sheet not attached
+    - 780 - Mass assignment vulnerability
+    - 781 - Mass assignment vulnerability
+    - 782 - Mass assignment vulnerability
+    - 783 - Mass assignment vulnerability
+    - 784 - Mass assignment vulnerability
+    - 785 - Mass assignment vulnerability
   * 79X - Internet crashed
-    - 797 - This is the last page of the Internet. Go back
-    - 799 - End of the world
+    - 797 - Mass assignment vulnerability
+    - 799 - Mass assignment vulnerability
