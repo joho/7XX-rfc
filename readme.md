@@ -46,6 +46,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 749 - Reserved for Chuck Norris 
   * 75X - Syntax Errors
     - 750 - Didn't bother to compile it
+    - 751 - Herp Derp
     - 753 - Syntax Error
     - 759 - Unexpected T_PAAMAYIM_NEKUDOTAYIM
   * 76X - Substance-Affected Developer
