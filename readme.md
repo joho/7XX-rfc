@@ -13,6 +13,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
   * 71X - Novelty Implementations
     - 710 - PHP
     - 711 - Convenience Store
+    - 712 - NoSQL
     - 719 - I am not a teapot
   * 72X - Edge Cases
     - 720 - Unpossible
@@ -75,5 +76,6 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 785 - TPS Cover Sheet not attached
     - 786 - Try it now
   * 79X - Internet crashed
+    - 791 - The Internet shut down due to copyright restrictions.
     - 797 - This is the last page of the Internet. Go back
     - 799 - End of the world
