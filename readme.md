@@ -78,4 +78,5 @@ We humbly suggest the following status codes are included in the HTTP spec in th
   * 79X - Internet crashed
     - 791 - The Internet shut down due to copyright restrictions.
     - 797 - This is the last page of the Internet. Go back
+    - 798 - Does not compute
     - 799 - End of the world
