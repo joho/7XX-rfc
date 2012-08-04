@@ -58,6 +58,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 766 - Sober
     - 767 - Drunk
     - 768 - Accidentally Took Sleeping Pills Instead Of Migraine Pills During Crunch Week
+    - 769 - Questionable Maturity Level
   * 77X - Predictable Problems
     - 771 - Cached for too long
     - 772 - Not cached long enough
