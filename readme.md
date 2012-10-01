@@ -48,6 +48,8 @@ We humbly suggest the following status codes are included in the HTTP spec in th
   * 75X - Syntax Errors
     - 750 - Didn't bother to compile it
     - 753 - Syntax Error
+    - 754 - Too many semi-colons
+    - 755 - Not enough semi-colons
     - 759 - Unexpected T_PAAMAYIM_NEKUDOTAYIM
   * 76X - Substance-Affected Developer
     - 761 - Hungover
