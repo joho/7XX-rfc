@@ -44,7 +44,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 746 - Missed Ballmer Peak
     - 747 - Motherfucking Snakes on the Motherfucking Plane
     - 748 - Confounded by Ponies
-    - 749 - Reserved for Chuck Norris 
+    - 749 - Reserved for Chuck Norris
   * 75X - Syntax Errors
     - 750 - Didn't bother to compile it
     - 753 - Syntax Error
@@ -80,5 +80,6 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 786 - Try it now
   * 79X - Internet crashed
     - 791 - The Internet shut down due to copyright restrictions.
+    - 792 - Climate change driven catastrophic weather event
     - 797 - This is the last page of the Internet. Go back
     - 799 - End of the world
