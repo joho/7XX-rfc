@@ -89,6 +89,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 788 - Designer's final designs weren't
     - 789 - Not my department
   * 79X - Internet crashed
+    - 790 - Have you tried turning it off and on again?
     - 791 - The Internet shut down due to copyright restrictions
     - 792 - Climate change driven catastrophic weather event
     - 793 - Zombie Apocalypse
