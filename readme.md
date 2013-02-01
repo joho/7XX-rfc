@@ -83,4 +83,5 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 792 - Climate change driven catastrophic weather event
     - 793 - Zombie Apocalypse
     - 797 - This is the last page of the Internet. Go back
+    - 798 - The neutrinos have mutated
     - 799 - End of the world
