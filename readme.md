@@ -10,10 +10,14 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 701 - Meh
     - 702 - Emacs
     - 703 - Explosion
+    - 704 - Intern trying to use vi
+    - 705 - Edited on Windows, merged on Linux
   * 71X - Novelty Implementations
     - 710 - PHP
     - 711 - Convenience Store
     - 712 - NoSQL
+    - 713 - Yet another fucking Java framework
+    - 714 - Yet another fucking Java specification
     - 719 - I am not a teapot
   * 72X - Edge Cases
     - 720 - Unpossible
@@ -82,5 +86,6 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 791 - The Internet shut down due to copyright restrictions.
     - 792 - Climate change driven catastrophic weather event
     - 793 - Zombie Apocalypse
+    - 794 - Rogue overpowerful AI took over
     - 797 - This is the last page of the Internet. Go back
     - 799 - End of the world
