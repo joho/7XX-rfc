@@ -82,5 +82,6 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 791 - The Internet shut down due to copyright restrictions.
     - 792 - Climate change driven catastrophic weather event
     - 793 - Zombie Apocalypse
+    - 794 - Someone let PG near a REPL
     - 797 - This is the last page of the Internet. Go back
     - 799 - End of the world
