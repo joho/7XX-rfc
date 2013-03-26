@@ -78,6 +78,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 784 - Management, obviously
     - 785 - TPS Cover Sheet not attached
     - 786 - Try it now
+    - 787 - Have you tried rebooting?
   * 79X - Internet crashed
     - 791 - The Internet shut down due to copyright restrictions.
     - 792 - Climate change driven catastrophic weather event
