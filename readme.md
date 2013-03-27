@@ -26,7 +26,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 727 - 32 bits is plenty
   * 73X - Fucking
     - 731 - Fucking Rubygems
-    - 732 - Fucking Unic💩de
+    - 732 - Fucking Unicde
     - 733 - Fucking Deadlocks
     - 734 - Fucking Deferreds
     - 735 - Fucking IE
@@ -76,8 +76,9 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 782 - QA
     - 783 - It was a customer request, honestly
     - 784 - Management, obviously
-    - 785 - TPS Cover Sheet not attached
-    - 786 - Try it now
+	- 785 - We're doing it this way because it's good for SEO
+    - 786 - TPS Cover Sheet not attached
+    - 787 - Try it now
   * 79X - Internet crashed
     - 791 - The Internet shut down due to copyright restrictions.
     - 792 - Climate change driven catastrophic weather event
