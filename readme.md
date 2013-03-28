@@ -10,6 +10,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 701 - Meh
     - 702 - Emacs
     - 703 - Explosion
+    - 707 - Guru Meditation
   * 71X - Novelty Implementations
     - 710 - PHP
     - 711 - Convenience Store
