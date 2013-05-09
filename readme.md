@@ -10,10 +10,14 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 701 - Meh
     - 702 - Emacs
     - 703 - Explosion
+    - 704 - Didn't run 'mvn verify'
+    - 705 - Incomplete implementation
   * 71X - Novelty Implementations
     - 710 - PHP
     - 711 - Convenience Store
     - 712 - NoSQL
+    - 713 - "Learning" implementation
+    - 714 - Hack - not supposed to be used
     - 719 - I am not a teapot
   * 72X - Edge Cases
     - 720 - Unpossible
@@ -24,6 +28,8 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 725 - It works on my machine
     - 726 - It's a feature, not a bug
     - 727 - 32 bits is plenty
+    - 728 - IE rendered like that
+    - 729 - Works everywhere but production
   * 73X - Fucking
     - 731 - Fucking Rubygems
     - 732 - Fucking Unic💩de
@@ -33,7 +39,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 736 - Fucking Race Conditions
     - 737 - FuckThreadsing
     - 738 - Fucking Bundler
-    - 739 - Fucking Windows
+    - 739 - Fucking <<<<<<< HEAD:readme.md Windows ==== >>>>>>> dev:Merge Conflicts
   * 74X - Meme Driven
     - 740 - Computer says no
     - 741 - Compiling
