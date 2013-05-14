@@ -4,7 +4,7 @@ At Railscamp X it became clear there is a gap in the current HTTP specification.
 
 There are many ways for a developer to screw up their implementation, but no code to share the nature of the error with the end user.
 
-We humbly suggest the following status codes are included in the HTTP spec in the 7XX range.
+We humbly suggest the following status codes to be included in the HTTP spec in the 7XX range.
 
   * 70X - Inexcusable
     - 701 - Meh
