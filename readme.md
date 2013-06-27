@@ -24,6 +24,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 725 - It works on my machine
     - 726 - It's a feature, not a bug
     - 727 - 32 bits is plenty
+    - 728.49999 - Rounding error when casting float as int
   * 73X - Fucking
     - 731 - Fucking Rubygems
     - 732 - Fucking Unic💩de
