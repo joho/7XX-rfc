@@ -68,7 +68,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 774 - Why was this cached?
     - 776 - Error on the Exception
     - 777 - Coincidence
-    - 778 - Off By One Error
+    - 777 - Off By One Error
     - 779 - Off By Too Many To Count Error
   * 78X - Somebody Else's Problem
     - 780 - Project owner not responding
