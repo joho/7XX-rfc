@@ -50,6 +50,8 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 753 - Syntax Error
     - 754 - Too many semi-colons
     - 755 - Not enough semi-colons
+    - 756 - Insufficiently polite
+    - 757 - Excessively polite
     - 759 - Unexpected T_PAAMAYIM_NEKUDOTAYIM
   * 76X - Substance-Affected Developer
     - 761 - Hungover
