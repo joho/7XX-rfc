@@ -52,6 +52,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 755 - Not enough semi-colons
     - 756 - Insufficiently polite
     - 757 - Excessively polite
+    - 758 - Bad Tempered Compiler
     - 759 - Unexpected T_PAAMAYIM_NEKUDOTAYIM
   * 76X - Substance-Affected Developer
     - 761 - Hungover
