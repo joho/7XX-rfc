@@ -25,6 +25,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 726 - It's a feature, not a bug
     - 727 - 32 bits is plenty
   * 73X - Fucking
+    - 73ö - Fucking Kezboard Lazouts
     - 731 - Fucking Rubygems
     - 732 - Fucking Unic💩de
     - 733 - Fucking Deadlocks
