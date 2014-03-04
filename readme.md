@@ -10,6 +10,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 701 - Meh
     - 702 - Emacs
     - 703 - Explosion
+    - 704 - Goto Fail
   * 71X - Novelty Implementations
     - 710 - PHP
     - 711 - Convenience Store
@@ -86,6 +87,5 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 792 - Climate change driven catastrophic weather event
     - 793 - Zombie Apocalypse
     - 794 - Someone let PG near a REPL
-    - 795 - Goto Fail
     - 797 - This is the last page of the Internet. Go back
     - 799 - End of the world
