@@ -10,6 +10,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 701 - Meh
     - 702 - Emacs
     - 703 - Explosion
+    - 704 - Goto Fail
   * 71X - Novelty Implementations
     - 710 - PHP
     - 711 - Convenience Store
