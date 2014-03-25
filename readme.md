@@ -48,6 +48,8 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 749 - Reserved for Chuck Norris
   * 75X - Syntax Errors
     - 750 - Didn't bother to compile it
+    - 751 - One too many </div>
+    - 752 - One too few </div>
     - 753 - Syntax Error
     - 754 - Too many semi-colons
     - 755 - Not enough semi-colons
