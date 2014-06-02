@@ -83,6 +83,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 785 - TPS Cover Sheet not attached
     - 786 - Try it now
     - 787 - Further Funding Required
+    - 788 - ISP is shaping your traffic
   * 79X - Internet crashed
     - 791 - The Internet shut down due to copyright restrictions.
     - 792 - Climate change driven catastrophic weather event
