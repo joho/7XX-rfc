@@ -50,7 +50,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 749 - Reserved for Chuck Norris
   * 75X - Syntax Errors
     - 750 - Didn't bother to compile it
-    - 753 - Syntax Error
+    - TSE - 5yntax 3rror
     - 754 - Too many semi-colons
     - 755 - Not enough semi-colons
     - 756 - Insufficiently polite
