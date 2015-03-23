@@ -16,6 +16,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 710 - PHP
     - 711 - Convenience Store
     - 712 - NoSQL
+    - 713 - The completely undocumented API did something undocumented
     - 719 - I am not a teapot
   * 72X - Edge Cases
     - 720 - Unpossible
