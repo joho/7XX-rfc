@@ -86,6 +86,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 786 - Try it now
     - 787 - Further Funding Required
     - 788 - Designer's final designs weren't
+    - 789 - But Sales promised this...
   * 79X - Internet crashed
     - 791 - The Internet shut down due to copyright restrictions.
     - 792 - Climate change driven catastrophic weather event
