@@ -12,6 +12,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 703 - Explosion
     - 704 - Goto Fail
     - 705 - I wrote the code and missed the necessary validation by an oversight (see 795)
+    - 706 - TODO
   * 71X - Novelty Implementations
     - 710 - PHP
     - 711 - Convenience Store
@@ -49,6 +50,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 747 - Motherfucking Snakes on the Motherfucking Plane
     - 748 - Confounded by Ponies
     - 749 - Reserved for Chuck Norris
+    - 750 - I have no idea what I'm doing
   * 75X - Syntax Errors
     - 750 - Didn't bother to compile it
     - 753 - Syntax Error
