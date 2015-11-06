@@ -88,7 +88,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 787 - Further Funding Required
     - 788 - Designer's final designs weren't
   * 79X - Internet crashed
-    - 791 - The Internet shut down due to copyright restrictions.
+    - 791 - The Internet shut down due to copyright restrictions
     - 792 - Climate change driven catastrophic weather event
     - 793 - Zombie Apocalypse
     - 794 - Someone let PG near a REPL
