@@ -28,6 +28,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 725 - It works on my machine
     - 726 - It's a feature, not a bug
     - 727 - 32 bits is plenty
+    - 728 - It was working
   * 73X - Fucking
     - 730 - Fucking Bower
     - 731 - Fucking Rubygems
@@ -59,6 +60,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 757 - Excessively polite
     - 759 - Unexpected T_PAAMAYIM_NEKUDOTAYIM
   * 76X - Substance-Affected Developer
+    - 760 - Hasn't slept since 3 days
     - 761 - Hungover
     - 762 - Stoned
     - 763 - Under-Caffeinated
