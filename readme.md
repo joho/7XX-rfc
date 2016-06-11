@@ -12,6 +12,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 703 - Explosion
     - 704 - Goto Fail
     - 705 - I wrote the code and missed the necessary validation by an oversight (see 795)
+    - 706 - Delete Your Account
   * 71X - Novelty Implementations
     - 710 - PHP
     - 711 - Convenience Store
