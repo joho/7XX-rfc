@@ -28,6 +28,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 725 - It works on my machine
     - 726 - It's a feature, not a bug
     - 727 - 32 bits is plenty
+    - 728 - Go Fish
   * 73X - Fucking
     - 730 - Fucking Bower
     - 731 - Fucking Rubygems
