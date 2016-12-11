@@ -18,8 +18,8 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 710 - PHP
     - 711 - Convenience Store
     - 712 - NoSQL
-    - 718 - Haskell
-    - 719 - I am not a teapot
+    - 718 - I am not a teapot
+    - 719 - Haskell
   * 72X - Edge Cases
     - 720 - Unpossible
     - 721 - Known Unknowns
