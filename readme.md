@@ -61,6 +61,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 757 - Excessively polite
     - 759 - Unexpected T_PAAMAYIM_NEKUDOTAYIM
   * 76X - Substance-Affected Developer
+    - 760 - Bad Hair Day
     - 761 - Hungover
     - 762 - Stoned
     - 763 - Under-Caffeinated
