@@ -36,6 +36,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 732 - Fucking Unic💩de
     - 733 - Fucking Deadlocks
     - 734 - Fucking Deferreds
+    - 734.5 - Fucking Fuck
     - 735 - Fucking IE
     - 736 - Fucking Race Conditions
     - 737 - FuckThreadsing
