@@ -25,7 +25,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 721 - Known Unknowns
     - 722 - Unknown Unknowns
     - 723 - Tricky
-    - 724 - This line should be unreachable
+    - 724 - Unreachable code was reached
     - 725 - It works on my machine
     - 726 - It's a feature, not a bug
     - 727 - 32 bits is plenty
