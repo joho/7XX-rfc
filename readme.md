@@ -49,7 +49,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 744 - Y U NO write integration tests?
     - 745 - I don't always test my code, but when I do I do it in production
     - 746 - Missed Ballmer Peak
-    - 747 - Motherfucking Snakes on the Motherfucking Plane
+    - 747 - Aliens
     - 748 - Confounded by Ponies
     - 749 - Reserved for Chuck Norris
   * 75X - Syntax Errors
@@ -98,4 +98,5 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 794 - Someone let PG near a REPL
     - 795 - #heartbleed (see 705)
     - 797 - This is the last page of the Internet. Go back
+    - 798 - Segata Sanshiro came back and there is no more Sega
     - 799 - End of the world
