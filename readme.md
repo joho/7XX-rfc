@@ -80,7 +80,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 777 - Coincidence
     - 778 - Off By One Error
     - 779 - Off By Too Many To Count Error
-  * 78X - Somebody Else's Problem
+  * 78X - Somebody Else's Fail
     - 780 - Project owner not responding
     - 781 - Operations
     - 782 - QA
