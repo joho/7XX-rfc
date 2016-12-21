@@ -51,7 +51,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 746 - Missed Ballmer Peak
     - 747 - Motherfucking Snakes on the Motherfucking Plane
     - 748 - Confounded by Ponies
-    - 749 - Reserved for Chuck Norris
+    - 749 - Challenge Accepted
   * 75X - Syntax Errors
     - 750 - Didn't bother to compile it
     - 753 - Syntax Error
