@@ -33,7 +33,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
   * 73X - Fucking
     - 730 - Fucking Bower
     - 731 - Fucking Rubygems
-    - 732 - Fucking Unic💩de
+    - 732 - Fucking Unicöde
     - 733 - Fucking Deadlocks
     - 734 - Fucking Deferreds
     - 735 - Fucking IE
