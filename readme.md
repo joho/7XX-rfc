@@ -98,4 +98,5 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 794 - Someone let PG near a REPL
     - 795 - #heartbleed (see 705)
     - 797 - This is the last page of the Internet. Go back
+    - 798 - The neutrinos have mutated
     - 799 - End of the world
