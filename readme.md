@@ -8,7 +8,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
 
   * 70X - Inexcusable
     - 701 - Meh
-    - 702 - Emacs
+    - 702 - Vi
     - 703 - Explosion
     - 704 - Goto Fail
     - 705 - I wrote the code and missed the necessary validation by an oversight (see 795)
