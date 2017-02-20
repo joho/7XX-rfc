@@ -25,7 +25,6 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 725 - It works on my machine
     - 726 - It's a feature, not a bug
     - 727 - 32 bits is plenty
-    - 728 - Go Fish
   * 73X - Fucking
     - 730 - Fucking Bower
     - 731 - Fucking Rubygems
@@ -35,7 +34,6 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 735 - Fucking IE
     - 736 - Fucking Race Conditions
     - 737 - FuckThreadsing
-    - 738 - Fucking Bundler
     - 739 - Fucking Windows
   * 74X - Reserved for meritocracy related bullshit
   * 75X - Syntax Errors
@@ -55,7 +53,6 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 766 - Sober
     - 767 - Drunk
     - 768 - Accidentally Took Sleeping Pills Instead Of Migraine Pills During Crunch Week
-    - 769 - Questionable Maturity Level
   * 77X - Predictable Problems
     - 771 - Cached for too long
     - 772 - Not cached long enough
