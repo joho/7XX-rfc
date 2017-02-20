@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rfc SYSTEM 'rfc2629.dtd' []>
+
+<section anchor="rfc-for-the-7xx-range-of-http-status-codes--developer-errors" title="RFC for the 7XX Range of HTTP Status codes - Developer Errors">
+<t>We humbly suggest the following status codes to be included in the HTTP spec in the 7XX range.
+</t>
+<t>
+<list style="symbols">
+<t>70X - Inexcusable
+<list style="symbols">
+<t>701 - Meh</t>
+<t>702 - Emacs</t>
+<t>703 - Explosion</t>
+<t>704 - Goto Fail</t>
+<t>705 - I wrote the code and missed the necessary validation by an oversight (see 795)</t>
+</list></t>
+<t>71X - Novelty Implementations
+<list style="symbols">
+<t>710 - PHP</t>
+<t>711 - Convenience Store</t>
+<t>712 - NoSQL</t>
+<t>718 - Haskell</t>
+<t>719 - I am not a teapot</t>
+</list></t>
+<t>72X - Edge Cases
+<list style="symbols">
+<t>720 - Unpossible</t>
+<t>721 - Known Unknowns</t>
+<t>722 - Unknown Unknowns</t>
+<t>723 - Tricky</t>
+<t>724 - This line should be unreachable</t>
+<t>725 - It works on my machine</t>
+<t>726 - It's a feature, not a bug</t>
+<t>727 - 32 bits is plenty</t>
+</list></t>
+<t>73X - Fucking
+<list style="symbols">
+<t>730 - Fucking Bower</t>
+<t>731 - Fucking Rubygems</t>
+<t>732 - Fucking Unic💩de</t>
+<t>733 - Fucking Deadlocks</t>
+<t>734 - Fucking Deferreds</t>
+<t>735 - Fucking IE</t>
+<t>736 - Fucking Race Conditions</t>
+<t>737 - FuckThreadsing</t>
+<t>738 - Fucking Bundler</t>
+<t>739 - Fucking Windows</t>
+</list></t>
+<t>74X - Meme Driven
+<list style="symbols">
+<t>740 - Computer says no</t>
+<t>741 - Compiling</t>
+<t>742 - A kitten dies</t>
+<t>743 - I thought I knew regular expressions</t>
+<t>744 - Y U NO write integration tests?</t>
+<t>745 - I don't always test my code, but when I do I do it in production</t>
+<t>746 - Missed Ballmer Peak</t>
+<t>747 - Motherfucking Snakes on the Motherfucking Plane</t>
+<t>748 - Confounded by Ponies</t>
+<t>749 - Reserved for Chuck Norris</t>
+</list></t>
+<t>75X - Syntax Errors
+<list style="symbols">
+<t>750 - Didn't bother to compile it</t>
+<t>753 - Syntax Error</t>
+<t>754 - Too many semi-colons</t>
+<t>755 - Not enough semi-colons</t>
+<t>756 - Insufficiently polite</t>
+<t>757 - Excessively polite</t>
+<t>759 - Unexpected T_PAAMAYIM_NEKUDOTAYIM</t>
+</list></t>
+<t>76X - Substance-Affected Developer
+<list style="symbols">
+<t>761 - Hungover</t>
+<t>762 - Stoned</t>
+<t>763 - Under-Caffeinated</t>
+<t>764 - Over-Caffeinated</t>
+<t>765 - Railscamp</t>
+<t>766 - Sober</t>
+<t>767 - Drunk</t>
+<t>768 - Accidentally Took Sleeping Pills Instead Of Migraine Pills During Crunch Week</t>
+<t>769 - Questionable Maturity Level</t>
+</list></t>
+<t>77X - Predictable Problems
+<list style="symbols">
+<t>771 - Cached for too long</t>
+<t>772 - Not cached long enough</t>
+<t>773 - Not cached at all</t>
+<t>774 - Why was this cached?</t>
+<t>775 - Out of cash</t>
+<t>776 - Error on the Exception</t>
+<t>777 - Coincidence</t>
+<t>778 - Off By One Error</t>
+<t>779 - Off By Too Many To Count Error</t>
+</list></t>
+<t>78X - Somebody Else's Problem
+<list style="symbols">
+<t>780 - Project owner not responding</t>
+<t>781 - Operations</t>
+<t>782 - QA</t>
+<t>783 - It was a customer request, honestly</t>
+<t>784 - Management, obviously</t>
+<t>785 - TPS Cover Sheet not attached</t>
+<t>786 - Try it now</t>
+<t>787 - Further Funding Required</t>
+<t>788 - Designer's final designs weren't</t>
+<t>789 - Not my department</t>
+</list></t>
+<t>79X - Internet crashed
+<list style="symbols">
+<t>791 - The Internet shut down due to copyright restrictions</t>
+<t>792 - Climate change driven catastrophic weather event</t>
+<t>793 - Zombie Apocalypse</t>
+<t>794 - Someone let PG near a REPL</t>
+<t>795 - #heartbleed (see 705)</t>
+<t>797 - This is the last page of the Internet. Go back</t>
+<t>799 - End of the world</t>
+</list></t>
+</list>
+</t>
+</section>
