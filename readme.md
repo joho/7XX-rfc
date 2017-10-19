@@ -41,6 +41,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 737 - FuckThreadsing
     - 738 - Fucking Bundler
     - 739 - Fucking Windows
+    - 740 - Fucking Timezones
   * 74X - Meme Driven
     - 740 - Computer says no
     - 741 - Compiling
