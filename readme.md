@@ -71,6 +71,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 768 - Accidentally Took Sleeping Pills Instead Of Migraine Pills During Crunch Week
     - 769 - Questionable Maturity Level
   * 77X - Predictable Problems
+    - 770 - That's enough Internet for today
     - 771 - Cached for too long
     - 772 - Not cached long enough
     - 773 - Not cached at all
