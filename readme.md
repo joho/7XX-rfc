@@ -18,6 +18,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 710 - PHP
     - 711 - Convenience Store
     - 712 - NoSQL
+    - 717 - Serverless w/o a server 
     - 718 - I am not a teapot
     - 719 - Haskell
   * 72X - Edge Cases
