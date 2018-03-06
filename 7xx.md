@@ -66,6 +66,7 @@ document, are to be interpreted as described in [@?RFC2119].
     - 725 - It works on my machine
     - 726 - It's a feature, not a bug
     - 727 - 32 bits is plenty
+    - 728 - It works in my timezone
 
 ## Fucking
 
@@ -136,6 +137,7 @@ document, are to be interpreted as described in [@?RFC2119].
   - 793 - Zombie Apocalypse
   - 794 - Someone let PG near a REPL
   - 795 - #heartbleed (see 705)
+  - 796 - Some DNS fuckery idno
   - 797 - This is the last page of the Internet. Go back
   - 798 - I checked the db backups cupboard and the cupboard was bare
   - 799 - End of the world
