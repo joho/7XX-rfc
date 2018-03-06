@@ -30,6 +30,7 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 726 - It's a feature, not a bug
     - 727 - 32 bits is plenty
     - 728 - Go Fish
+    - 729 - It works in my timezone
   * 73X - Fucking
     - 730 - Fucking Bower
     - 731 - Fucking Rubygems
@@ -97,5 +98,6 @@ We humbly suggest the following status codes to be included in the HTTP spec in 
     - 793 - Zombie Apocalypse
     - 794 - Someone let PG near a REPL
     - 795 - #heartbleed (see 705)
+    - 796 - Some DNS fuckery idno
     - 797 - This is the last page of the Internet. Go back
     - 799 - End of the world
