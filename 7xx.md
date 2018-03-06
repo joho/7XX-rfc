@@ -58,27 +58,27 @@ document, are to be interpreted as described in [@?RFC2119].
 
 ## Edge Cases
 
-    - 720 - Unpossible
-    - 721 - Known Unknowns
-    - 722 - Unknown Unknowns
-    - 723 - Tricky
-    - 724 - This line should be unreachable
-    - 725 - It works on my machine
-    - 726 - It's a feature, not a bug
-    - 727 - 32 bits is plenty
-    - 728 - It works in my timezone
+  - 720 - Unpossible
+  - 721 - Known Unknowns
+  - 722 - Unknown Unknowns
+  - 723 - Tricky
+  - 724 - This line should be unreachable
+  - 725 - It works on my machine
+  - 726 - It's a feature, not a bug
+  - 727 - 32 bits is plenty
+  - 728 - It works in my timezone
 
 ## Fucking
 
-    - 730 - Fucking npm
-    - 731 - Fucking Rubygems
-    - 732 - Fucking Unic💩de
-    - 733 - Fucking Deadlocks
-    - 734 - Fucking Deferreds
-    - 735 - Fucking IE
-    - 736 - Fucking Race Conditions
-    - 737 - FuckThreadsing
-    - 739 - Fucking Windows
+  - 730 - Fucking npm
+  - 731 - Fucking Rubygems
+  - 732 - Fucking Unic💩de
+  - 733 - Fucking Deadlocks
+  - 734 - Fucking Deferreds
+  - 735 - Fucking IE
+  - 736 - Fucking Race Conditions
+  - 737 - FuckThreadsing
+  - 739 - Fucking Windows
 
 ## Reserved for meritocracy related bullshit
 

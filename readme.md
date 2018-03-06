@@ -71,27 +71,43 @@ Table of Contents
 
 2.3.  Edge Cases
 
-                  - 720 - Unpossible
-                  - 721 - Known Unknowns
-                  - 722 - Unknown Unknowns
-                  - 723 - Tricky
-                  - 724 - This line should be unreachable
-                  - 725 - It works on my machine
-                  - 726 - It's a feature, not a bug
-                  - 727 - 32 bits is plenty
-                  - 728 - It works in my timezone
+   o  720 - Unpossible
+
+   o  721 - Known Unknowns
+
+   o  722 - Unknown Unknowns
+
+   o  723 - Tricky
+
+   o  724 - This line should be unreachable
+
+   o  725 - It works on my machine
+
+   o  726 - It's a feature, not a bug
+
+   o  727 - 32 bits is plenty
+
+   o  728 - It works in my timezone
 
 2.4.  Fucking
 
-                      - 730 - Fucking npm
-                      - 731 - Fucking Rubygems
-                      - 732 - Fucking Unic&#128169;de
-                      - 733 - Fucking Deadlocks
-                      - 734 - Fucking Deferreds
-                      - 735 - Fucking IE
-                      - 736 - Fucking Race Conditions
-                      - 737 - FuckThreadsing
-                      - 739 - Fucking Windows
+   o  730 - Fucking npm
+
+   o  731 - Fucking Rubygems
+
+   o  732 - Fucking Unic&#128169;de
+
+   o  733 - Fucking Deadlocks
+
+   o  734 - Fucking Deferreds
+
+   o  735 - Fucking IE
+
+   o  736 - Fucking Race Conditions
+
+   o  737 - FuckThreadsing
+
+   o  739 - Fucking Windows
 
 2.5.  Reserved for meritocracy related bullshit
 
