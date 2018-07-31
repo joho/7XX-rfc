@@ -99,13 +99,17 @@ Table of Contents
 
    o  734 - Fucking Deferreds
 
-   o  735 - Fucking IE
-
    o  736 - Fucking Race Conditions
+
+   o  735 - Fucking IE
 
    o  737 - FuckThreadsing
 
+   o  738 - Fucking Exactly-once Delivery
+
    o  739 - Fucking Windows
+
+   o  738 - Fucking Exactly-once Delivery
 
 2.5.  Reserved for meritocracy related bullshit
 
