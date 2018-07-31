@@ -75,10 +75,12 @@ document, are to be interpreted as described in [@?RFC2119].
   - 732 - Fucking Unic💩de
   - 733 - Fucking Deadlocks
   - 734 - Fucking Deferreds
-  - 735 - Fucking IE
   - 736 - Fucking Race Conditions
+  - 735 - Fucking IE
   - 737 - FuckThreadsing
+  - 738 - Fucking Exactly-once Delivery
   - 739 - Fucking Windows
+  - 738 - Fucking Exactly-once Delivery
 
 ## Reserved for meritocracy related bullshit
 
