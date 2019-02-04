@@ -109,8 +109,6 @@ Table of Contents
 
    o  739 - Fucking Windows
 
-   o  738 - Fucking Exactly-once Delivery
-
 2.5.  Reserved for meritocracy related bullshit
 
    74x TBD.  Got the brains trust on the case.
