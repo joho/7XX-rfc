@@ -80,7 +80,6 @@ document, are to be interpreted as described in [@?RFC2119].
   - 737 - FuckThreadsing
   - 738 - Fucking Exactly-once Delivery
   - 739 - Fucking Windows
-  - 738 - Fucking Exactly-once Delivery
 
 ## Reserved for meritocracy related bullshit
 
