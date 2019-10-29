@@ -1,7 +1,14 @@
-all: txt
+IGNORE := $(shell mkdir -p /tmp/xml2rfc)
 
-xml: 7xx.md
-	docker run --rm -v $(shell pwd):/rfc paulej/rfctools mmark -xml2 -page 7xx.md > rfc.xml
+UID  := $(shell id -u)
+GID  := $(shell id -g)
+CWD  := $(shell pwd)
 
-txt: xml
-	docker run --rm -v $(shell pwd):/rfc --user=$(shell id -u):$(shell id -g) paulej/rfctools xml2rfc --text rfc.xml --cache /tmp
+all: 7xx.txt
+
+clean:
+	rm -f *.txt *.xml
+
+%.txt: %.md
+	docker run --rm --user=$(UID):$(GID) -v $(CWD):/rfc -v /tmp/xml2rfc:/var/cache/xml2rfc paulej/rfctools md2rfc $^
+
