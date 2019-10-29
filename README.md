@@ -1,7 +1,7 @@
 # RFC for 700 HTTP Status Codes
 
 ```
-Barton                   Expires October 3, 2018                [Page 1]
+Barton                   Expires October 3, 2020                [Page 1]
 
 Internet-Draft                7xxhttpcodes                    April 2018
 
@@ -228,7 +228,7 @@ Author's Address
    J. R. Barton
    Railscamp
 
-   Email: jrbarton@gmail.com
+   Email: jb@johnbarton.co
 
 ```
 

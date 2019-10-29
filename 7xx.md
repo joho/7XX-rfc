@@ -9,7 +9,7 @@
   workgroup = ""
   keyword = ["http", "errors"]
 
-  date = 2018-04-01T00:00:00Z
+  date = 2020-04-01T00:00:00Z
 
   [[author]]
   initials="J. R."
@@ -17,7 +17,7 @@
   fullname="J. R. Barton"
   organization = "Railscamp"
     [author.address]
-    email = "jrbarton@gmail.com"
+    email = "jb@johnbarton.co"
 %%%
 
 .# Abstract
