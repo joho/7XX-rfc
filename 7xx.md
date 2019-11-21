@@ -72,7 +72,7 @@ document, are to be interpreted as described in [@?RFC2119].
 
   - 730 - Fucking npm
   - 731 - Fucking Rubygems
-  - 732 - Fucking Unic💩de
+  - 732 - FÃ©Ã©king Unicode
   - 733 - Fucking Deadlocks
   - 734 - Fucking Deferreds
   - 736 - Fucking Race Conditions
