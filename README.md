@@ -149,6 +149,8 @@ Table of Contents
 
    o  768 - Accidentally Took Sleeping Pills Instead Of Migraine Pills
       During Crunch Week
+      
+   o  769 - Too happy because I got laid again.
 
 2.8.  Predictable Problems
 
