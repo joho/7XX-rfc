@@ -40,6 +40,8 @@ Table of Contents
 
 2.1.  Inexcusable
 
+   o  700 - 🤌
+
    o  701 - Meh
 
    o  702 - Emacs
