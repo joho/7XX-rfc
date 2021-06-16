@@ -81,6 +81,7 @@ document, are to be interpreted as described in [@?RFC2119].
   - 738 - Fucking Exactly-once Delivery
   - 739 - Fucking Windows
   - 738 - Fucking Exactly-once Delivery
+  - 739 - Fucking McAfee
 
 ## Reserved for meritocracy related bullshit
 
