@@ -114,6 +114,8 @@ Table of Contents
 2.5.  Reserved for meritocracy related bullshit
 
    74x TBD.  Got the brains trust on the case.
+   
+   o  740 - Had to explain CORS to the architects again
 
 2.6.  Syntax Errors
 
