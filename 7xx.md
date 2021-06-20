@@ -90,6 +90,7 @@ document, are to be interpreted as described in [@?RFC2119].
 ## Syntax Errors
 
   - 750 - Didn't bother to compile it
+  - 751 - Didn't bother to test it
   - 753 - Syntax Error
   - 754 - Too many semi-colons
   - 755 - Not enough semi-colons
