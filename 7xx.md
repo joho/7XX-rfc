@@ -108,6 +108,9 @@ document, are to be interpreted as described in [@?RFC2119].
   - 767 - Drunk
   - 768 - Accidentally Took Sleeping Pills Instead Of Migraine Pills During Crunch Week
 
+## Sex
+  - 769 - I Have Sex
+
 ## Predictable Problems
 
   - 771 - Cached for too long
