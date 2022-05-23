@@ -96,6 +96,7 @@ document, are to be interpreted as described in [@?RFC2119].
   - 756 - Insufficiently polite
   - 757 - Excessively polite
   - 759 - Unexpected `T_PAAMAYIM_NEKUDOTAYIM`
+  - 760 - Unexpected token `<` in JSON at position 0
 
 ## Substance-Affected Developer
 
