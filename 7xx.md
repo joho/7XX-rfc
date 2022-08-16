@@ -65,7 +65,7 @@ document, are to be interpreted as described in [@?RFC2119].
   - 724 - This line should be unreachable
   - 725 - It works on my machine
   - 726 - It's a feature, not a bug
-  - 727 - 32 bits is plenty
+  - 727 - I saw it
   - 728 - It works in my timezone
 
 ## Fucking
